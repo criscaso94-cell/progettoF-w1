@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body{font-family: 'Open Sans', sans-serif;
+    color: #393d41;
+    font-size: 1.2rem;
+    line-height: 1.65;}
+
+h2{font-size: 1.5em;} 
+.ending h6{color: white;
+font-size: 0.8em;}  
+
+
+h1,h2,h3{font-family:Montserrat,sans-serif ;
+font-weight: bold;
+color:#25a2c3 ;}
+header{max-width: 450px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+padding: 0;
+background-color: black;}
+
+main{max-width: 450px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+padding-left: 10px;
+padding-right: 10px;}
+
+figure>img{border-radius: 50%;
+padding-top: 30px;
+width: 100%;}
+
+.buttonpartiamo{background-color:#f04c2f;
+color: white;
+font-family: 'Montserrat', sans-serif;
+display: inline-block;
+margin-top: 20px;
+border:white ;
+width: 50%;
+height:30px;
+border-radius: 10px;
+
+}
+.paragrafi{padding-bottom: 10px;
+padding-top: 10px;
+text-align: center;}
+
+.orangebanner{background-color: #e22d0e;
+color: white;
+padding-bottom: 50px;
+padding-top: 50px;}
+.orangebanner h2{color: white;
+padding-bottom: 20px;}
+.orangebanner h3{color: white;
+    font-size: 0.80em;
+    padding-top: 20px;
+}
+.orangebanner h6{font-size: 0.70em;}
+.orangebanner em{font-style: italic;
+}
+
+.blocco0{padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+.blocco1{padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-top: 20px;}
+
+.blocco3{padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-top: 20px;}
+
+
+footer{max-width: 450px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+background-color: #25a2c3;
+color: white;
+}
+.ending hr{border-top: 0.2px solid white;
+margin: 20px auto;
+width: 30%;}
+.ending p a{color: white;
+padding-bottom: 15px;
+padding-top: 15px;}
+.ending{padding-top: 20px;}
+
+#logo{width: 40%;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+#contattaci{color: white;}
+
+.blocco2>article>img{max-width: 450px;
+    width: 100%;
+}
+.banner{background-image: url(./assets/images/banner.jpg);background-size: auto;
+    padding: 60px;
+background-size: contain;}
