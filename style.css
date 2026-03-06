@@ -30,7 +30,10 @@ padding-right: 10px;}
 
 figure>img{border-radius: 50%;
 padding-top: 30px;
+padding-bottom: 30px ;
 width: 100%;}
+
+i{font-size: 15px;}
 
 .buttonpartiamo{background-color:#f04c2f;
 color: white;
@@ -77,7 +80,6 @@ padding-bottom: 20px;}
     padding-right: 20px;
     padding-top: 20px;}
 
-
 footer{max-width: 450px;
 margin-left: auto;
 margin-right: auto;
@@ -85,6 +87,7 @@ text-align: center;
 background-color: #25a2c3;
 color: white;
 }
+
 .ending hr{border-top: 0.2px solid white;
 margin: 20px auto;
 width: 30%;}
